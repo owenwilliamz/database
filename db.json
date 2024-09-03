@@ -34,5 +34,42 @@
         }
       ]
     }
+  ],
+  "orders": [
+    {
+      "orderNumber": 12345,
+      "orderDate": "29-10-2022",
+      "overallOrderStatus": "delivered",
+      "courier": "DHL",
+      "estimatedDelDate": "30-11-2022",
+      "items": [
+        {
+          "itemNo": 1,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "Item": "Hamptons dress",
+              "quantity": 1,
+              "Size": "EU S",
+              "Color": "Multi",
+              "url": "https://cdn.pixabay.com/photo/2016/06/29/04/39/bride-1486004_960_720.jpg"
+            }
+          ]
+        },
+        {
+          "itemNo": 2,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "Item": "Original",
+              "quantity": 1,
+              "Size": "EU 40",
+              "Color": "Navy",
+              "url": "https://cdn.pixabay.com/photo/2020/05/26/07/43/skateboard-5221914_960_720.jpg"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
