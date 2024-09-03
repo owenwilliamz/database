@@ -2,9 +2,17 @@
   "accounts": [
     {
       "id": 1234567890,
-      "first_name": "John",
-      "last_name": "Smith",
-      "type": "current"
+      "first_name": "Taylor",
+      "last_name": "Swift",
+      "type": "frequent shopper",
+      "credit_limit": "£2000",
+      "current_balance": "£1500",
+      "payment_due_date": "5th October",
+      "minimum_payment": "£50",
+      "last_transaction": {
+        "status": "success"
+        "value": "£25.99"
+      }
     }
   ]
 }
