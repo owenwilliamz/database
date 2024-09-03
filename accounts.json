@@ -1,0 +1,10 @@
+{
+  "accounts": [
+    {
+      "id": 1234567890,
+      "first_name": "John",
+      "last_name": "Smith",
+      "type": "current"
+    }
+  ]
+}
