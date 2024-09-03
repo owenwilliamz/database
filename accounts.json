@@ -10,7 +10,7 @@
       "payment_due_date": "5th October",
       "minimum_payment": "£50",
       "last_transaction": {
-        "status": "success"
+        "status": "success",
         "value": "£25.99"
       }
     }
