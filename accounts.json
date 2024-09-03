@@ -7,6 +7,7 @@
       "type": "frequent shopper",
       "credit_limit": "£2000",
       "current_balance": "£1500",
+      "available_credit": "£500",
       "payment_due_date": "5th October",
       "minimum_payment": "£50",
       "transactions": [
@@ -23,6 +24,7 @@
       "type": "tycoon",
       "credit_limit": "£9999",
       "current_balance": "£9999",
+      "available_credit": "£0",
       "payment_due_date": "18th June",
       "minimum_payment": "£5000",
       "transactions": [
