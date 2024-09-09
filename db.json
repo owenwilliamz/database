@@ -2,6 +2,7 @@
   "accounts": [
     {
       "id": 1234567890,
+      "email": "adutchtswift@gmail.com",
       "first_name": "Taylor",
       "last_name": "Swift",
       "type": "frequent shopper",
@@ -19,9 +20,10 @@
     },
     {
       "id": 1000000000,
-      "first_name": "Geoff",
-      "last_name": "Bezos",
-      "type": "tycoon",
+      "email": "adutchldrey@gmail.com",
+      "first_name": "Lana",
+      "last_name": "Del Rey",
+      "type": "new",
       "credit_limit": "£9999",
       "current_balance": "£9999",
       "available_credit": "£0",
