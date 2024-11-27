@@ -72,12 +72,12 @@
           "itemNo": 1,
           "productDetails": [
             {
-              "Brand": "Ruched",
-              "Item": "Front Lemon Slip Dress",
+              "Brand": "Lush",
+              "Item": "Sticky Dates",
               "quantity": 1,
-              "Size": "EU M",
+              "Size": "3 x 100g",
               "Color": "Multi",
-              "url": "https://www.simplybe.co.uk/i/411b3422ba463fb1/original/a02uf608731w.jpg?im=Resize=580&impolicy=pdp"
+              "url": "https://www.lush.com/uk/en/p/sticky-dates-gift"
             }
           ]
         },
@@ -85,12 +85,12 @@
           "itemNo": 2,
           "productDetails": [
             {
-              "Brand": "Aria",
-              "Item": "Aria Lace Up Front Shoe Boots",
+              "Brand": "Lush",
+              "Item": "Posh Chocolate",
               "quantity": 1,
-              "Size": "EU 40",
-              "Color": "Brown",
-              "url": "https://www.simplybe.co.uk/i/312ee7b8dc83f97d/original/y02od226781s.jpg?im=Resize=580&impolicy=pdp"
+              "Size": "225g",
+              "Color": "Multi",
+              "url": "https://www.lush.com/uk/en/p/posh-chocolate-body-wash"
             }
           ]
         }
