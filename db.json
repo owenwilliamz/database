@@ -2,9 +2,9 @@
   "accounts": [
     {
       "id": 1234567890,
-      "email": "adutchtswift@gmail.com",
-      "first_name": "Taylor",
-      "last_name": "Swift",
+      "email": "test@zendesk.com",
+      "first_name": "John",
+      "last_name": "Taylor",
       "type": "frequent shopper",
       "credit_limit": "£2000",
       "current_balance": "£1500",
