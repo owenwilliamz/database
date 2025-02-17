@@ -3,6 +3,8 @@
     {
       "id": 1234567890,
       "email": "test@zendesk.com",
+      "pet_name": "scruffy",
+      "favourite_food": "pasta",
       "first_name": "John",
       "last_name": "Taylor",
       "type": "frequent shopper",
